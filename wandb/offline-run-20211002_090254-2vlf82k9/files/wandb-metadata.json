@@ -1,0 +1,16 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.0",
+    "heartbeatAt": "2021-10-02T01:02:59.930305",
+    "startedAt": "2021-10-02T01:02:54.183273",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "LAPTOP-3PNGACNS",
+    "username": "chenxindaaa",
+    "executable": "C:\\Users\\chenxindaaa\\anaconda3\\envs\\course_yolov5\\python.exe"
+}

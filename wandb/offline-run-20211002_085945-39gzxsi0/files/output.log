@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "train.py", line 616, in <module>
+    main(opt)
+  File "train.py", line 513, in main
+    train(opt.hyp, opt, device, callbacks)
+  File "train.py", line 111, in train
+    check_suffix(weights, '.pt')  # check weights
+  File "D:\Study\PyCharm20\PycharmProjects\course_yolov5\yolov5-master\yolov5-master\utils\general.py", line 300, in check_suffix
+    assert Path(f).suffix.lower() in suffix, f"{msg}{f} acceptable suffix is {suffix}"
+AssertionError: . acceptable suffix is ['.pt']
